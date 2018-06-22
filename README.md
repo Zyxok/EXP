@@ -1,2 +1,2 @@
 # EXP
-A game in Javascript & HTML Canvas: Execution Points
+A game: Execution Points
